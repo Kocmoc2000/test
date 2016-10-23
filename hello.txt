@@ -1,2 +1,2 @@
-print("Hello world")
-print("OK")
+print("Hello world");
+print("OK");
